@@ -1,15 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace _03_Perlin噪声_伽马矫正
 {
+
+    /// <summary>
+    /// 
+    /// 本节展示Perlin噪声，Perlin噪声用于生成杂乱无章的图形
+    /// 使用Perlin噪声可以得到千奇百怪的图形，这里只展示了书上的一种，若想得到不同的效果，可以修改NoiseTexture类的Value函数
+    /// 
+    /// 使用了伽马校正后图片的更新变得更柔和了，肉眼更难发现图片的变化
+    /// 
+    /// 如果没看出来区别可以对比一下01和03，注意观察扫描的边界
+    /// 
+    /// </summary>
+
     public partial class Form1 : Form
     {
         public static Form1 main;
@@ -21,7 +26,7 @@ namespace _03_Perlin噪声_伽马矫正
             InitializeComponent();
             main = this;
             InitScene();
-            renderer = new Renderer(scene,1000);
+            renderer = new Renderer(scene);
             
         }
 

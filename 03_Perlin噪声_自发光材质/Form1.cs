@@ -1,15 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace _04_自发光材质
 {
+
+    /// <summary>
+    /// 
+    /// 本节展示自发光材质
+    /// 由于本项目并没有写光源的类，就使用自发光材质充当光源了，而且还不用考虑多个光源的问题
+    /// 
+    /// 本节的渲染速度很慢，因为光线太少了，我们之后会解决它
+    /// 
+    /// </summary>
     public partial class Form1 : Form
     {
         public static Form1 main;

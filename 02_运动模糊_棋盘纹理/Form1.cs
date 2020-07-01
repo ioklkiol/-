@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace _02_运动模糊_棋盘纹理
 {
+    /// <summary>
+    /// 本节展示得功能是运动模糊和棋盘纹理，没什么好说的，因为很简单
+    /// </summary>
+
     public partial class Form1 : Form
     {
         public static Form1 main;
@@ -21,7 +18,7 @@ namespace _02_运动模糊_棋盘纹理
             InitializeComponent();
             main = this;
             InitScene();
-            renderer = new Renderer(scene,1000);
+            renderer = new Renderer(scene);
             
         }
 

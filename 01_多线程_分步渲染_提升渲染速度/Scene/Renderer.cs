@@ -15,7 +15,7 @@ public class Renderer
     private HitableList world = new HitableList();
     private bool isSky = true;
     private Scene scene;
-    private int samples = 1000;
+    private int samples;
     private Camera camera;
 
     public static Renderer main;
@@ -24,7 +24,7 @@ public class Renderer
     public int[] changes;
     public Bitmap bmp;
 
-    public Renderer(Scene scene, int samples)
+    public Renderer(Scene scene, int samples=1000)
     {
         this.scene = scene;
         this.width = scene.Width;

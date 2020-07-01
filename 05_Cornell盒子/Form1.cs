@@ -1,15 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace _05_Cornell盒子_平移旋转
 {
+    /// <summary>
+    /// 
+    /// 本节展示Cornell盒子
+    /// Cornell盒子场景里有几个平面矩形和盒子，Box类其实是由几个平面矩形拼成的
+    /// 
+    /// 关于物体的位置变换，其实一般都是用的变换矩阵，但本项目为了和书上保持一致还是采用了书上的方法，在渲染进行了位置变换的物体时更改反射光线
+    /// 其实我个人觉得这种方法很不好，因为使用这种方法进行的位置变换是虚假的，物体在场景中的位置其实并没有变
+    /// 
+    /// 本节的渲染速度同样很慢，因为光线太少了，我们会在下一节解决它
+    /// 
+    /// </summary>
     public partial class Form1 : Form
     {
         public static Form1 main;

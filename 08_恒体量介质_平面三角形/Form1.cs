@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace _08_体恒量介质_平面三角形
 {
+    /// <summary>
+    /// 本节展示体恒量介质和平面三角形，场景中有两个气态矩形，要达到书上那种效果的话要多等一会儿
+    /// </summary>
     public partial class Form1 : Form
     {
         public static Form1 main;

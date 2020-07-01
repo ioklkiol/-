@@ -1,15 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace _07_蒙特卡罗_混合概率密度_降噪
 {
+    /// <summary>
+    /// 
+    /// 之前的采样都是对物体的各个部位一视同仁地进行采样，但物体不同部位反射光线的概率是不同的，所以我们对不同部位采样的次数也应该不同
+    /// 为了实现这个，我们需要使用蒙特卡罗方法模拟概率密度的分布
+    /// 
+    /// 为了得到更好的渲染效果，我们使用了混合概率密度，对直接光源采样和使用cos函数的pdf(概率密度分布函数)的优点进行折中，使渲染速度达到
+    /// 可以接受的范围并且不会出现阴暗处无光的问题
+    /// 
+    /// </summary>
     public partial class Form1 : Form
     {
         public static Form1 main;

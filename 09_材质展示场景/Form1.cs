@@ -10,6 +10,11 @@ using System.Windows.Forms;
 
 namespace _09_材质展示场景
 {
+    /// <summary>
+    /// 
+    /// 本节展示该渲染器可以渲染的材质
+    /// 
+    /// </summary>
     public partial class Form1 : Form
     {
         public static Form1 main;
