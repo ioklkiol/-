@@ -1,0 +1,16 @@
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\obj\Release\09_材质展示场景.csprojAssemblyReference.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\obj\Release\_09_材质展示场景.Properties.Resources.resources
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\obj\Release\09_材质展示场景.csproj.GenerateResource.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\obj\Release\09_材质展示场景.csproj.CoreCompileInputs.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\obj\Release\_09_材质展示场景.Form1.resources
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\bin\Release\09_材质展示场景.exe.config
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\bin\Release\09_材质展示场景.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\bin\Release\09_材质展示场景.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\bin\Release\01_多线程_分步渲染_提升渲染速度.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\bin\Release\AcDx.dll
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\bin\Release\01_多线程_分步渲染_提升渲染速度.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\bin\Release\01_多线程_分步渲染_提升渲染速度.exe.config
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\obj\Release\09_材质展示场景.csproj.CopyComplete
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\obj\Release\09_材质展示场景.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\obj\Release\09_材质展示场景.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\09_材质展示场景\bin\Release\Earth.jpg

@@ -1,0 +1,14 @@
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\obj\Release\_07_蒙特卡罗_混合概率密度.Form1.resources
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\obj\Release\_07_蒙特卡罗_混合概率密度.Properties.Resources.resources
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\obj\Release\07_蒙特卡罗_混合概率密度.csproj.GenerateResource.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\obj\Release\07_蒙特卡罗_混合概率密度.csproj.CoreCompileInputs.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\bin\Release\07_蒙特卡罗_混合概率密度.exe.config
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\bin\Release\07_蒙特卡罗_混合概率密度.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\bin\Release\07_蒙特卡罗_混合概率密度.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\bin\Release\01_多线程_分步渲染_提升渲染速度.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\bin\Release\AcDx.dll
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\bin\Release\01_多线程_分步渲染_提升渲染速度.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\bin\Release\01_多线程_分步渲染_提升渲染速度.exe.config
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\obj\Release\07_蒙特卡罗_混合概率密度.csproj.CopyComplete
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\obj\Release\07_蒙特卡罗_混合概率密度.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\07_蒙特卡罗_混合概率密度\obj\Release\07_蒙特卡罗_混合概率密度.pdb

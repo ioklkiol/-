@@ -1,0 +1,15 @@
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\bin\Release\03_Perlin噪声.exe.config
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\bin\Release\03_Perlin噪声.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\bin\Release\03_Perlin噪声.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\bin\Release\01_多线程_分步渲染_提升渲染速度.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\bin\Release\AcDx.dll
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\bin\Release\01_多线程_分步渲染_提升渲染速度.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\bin\Release\01_多线程_分步渲染_提升渲染速度.exe.config
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\obj\Release\_03_Perlin噪声.Form1.resources
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\obj\Release\_03_Perlin噪声.Properties.Resources.resources
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\obj\Release\03_Perlin噪声.csproj.GenerateResource.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\obj\Release\03_Perlin噪声.csproj.CoreCompileInputs.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\obj\Release\03_Perlin噪声.csproj.CopyComplete
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\obj\Release\03_Perlin噪声.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\obj\Release\03_Perlin噪声.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声\obj\Release\03_Perlin噪声.csprojAssemblyReference.cache

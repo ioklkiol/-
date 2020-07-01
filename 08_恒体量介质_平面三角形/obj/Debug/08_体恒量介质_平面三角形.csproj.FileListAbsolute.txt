@@ -1,0 +1,15 @@
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\bin\Debug\08_恒体量介质_平面三角形.exe.config
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\bin\Debug\08_恒体量介质_平面三角形.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\bin\Debug\08_恒体量介质_平面三角形.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\bin\Debug\01_多线程_分步渲染_提升渲染速度.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\bin\Debug\AcDx.dll
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\bin\Debug\01_多线程_分步渲染_提升渲染速度.pdb
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\bin\Debug\01_多线程_分步渲染_提升渲染速度.exe.config
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\obj\Debug\08_体恒量介质_平面三角形.csprojAssemblyReference.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\obj\Debug\_08_体恒量介质_平面三角形.Form1.resources
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\obj\Debug\_08_恒体量介质_平面三角形.Properties.Resources.resources
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\obj\Debug\08_体恒量介质_平面三角形.csproj.GenerateResource.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\obj\Debug\08_体恒量介质_平面三角形.csproj.CoreCompileInputs.cache
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\obj\Debug\08_体恒量介质_平面三角形.csproj.CopyComplete
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\obj\Debug\08_恒体量介质_平面三角形.exe
+C:\Users\omnis\source\repos\计算机图形学大作业\08_恒体量介质_平面三角形\obj\Debug\08_恒体量介质_平面三角形.pdb
