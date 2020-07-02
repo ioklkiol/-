@@ -65,7 +65,7 @@ namespace _07_蒙特卡罗_混合概率密度_降噪
             HitableList lightShapeList = new HitableList();
             Hitable lightShape = new XZRect(213, 343, 227, 332, 554, null);
             lightShapeList.list.Add(lightShape);
-            scene = new Scene(width, height, world, isSky, camera, 0.5f,false,lightShapeList);
+            scene = new Scene(width, height, world, isSky, camera, 0.5f,true,lightShapeList);
 
 
         }
