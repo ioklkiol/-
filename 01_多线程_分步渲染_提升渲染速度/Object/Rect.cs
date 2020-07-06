@@ -54,6 +54,25 @@ public class XYRect : Hitable
         rec.normal = new Vector3D(0, 0, 1);
         return true;
     }
+    public override float PDFValue(Vector3D o, Vector3D v)
+    {
+        HitRecord rec;
+        if (this.Hit(new Ray(o, v), 0.001f, float.MaxValue, out rec))
+        {
+            float area = (X1 - X0) * (Y1 - Y0);
+            float distanceSquared = rec.t * rec.t * v.SquaredMagnitude();
+            float cosine = Mathf.Abs((v * rec.normal) / v.Length());
+            return distanceSquared / (cosine * area);
+        }
+        else
+            return 0;
+    }
+    public override Vector3D Random(Vector3D o)
+    {
+        Vector3D randomPoint = new Vector3D(X0 + Mathf.Randomfloat()
+            * (X1 - X0), Y0 + Mathf.Randomfloat() * (Y1 - Y0), k);
+        return randomPoint - o;
+    }
 }
 //XZ平面上的矩形
 public class XZRect : Hitable

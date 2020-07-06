@@ -13,3 +13,4 @@ C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声_自发�
 C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声_自发光材质\obj\Release\03_Perlin噪声_自发光材质.exe
 C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声_自发光材质\obj\Release\03_Perlin噪声_自发光材质.pdb
 C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声_自发光材质\bin\Release\Earth.jpg
+C:\Users\omnis\source\repos\计算机图形学大作业\03_Perlin噪声_自发光材质\obj\Release\04_自发光材质.csprojAssemblyReference.cache

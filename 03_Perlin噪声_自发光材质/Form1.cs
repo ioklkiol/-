@@ -49,9 +49,15 @@ namespace _04_自发光材质
             list.Add(new Sphere(new Vector3D(0, 2, 0), 2, new Lambertian(perText)));
             list.Add(new Sphere(new Vector3D(0, 7, 0), 2, new DiffuseLight(new ConstantTexture(new Vector3D(10, 10, 10)))));
             list.Add(new XYRect(3, 5, 1, 3, -2, new DiffuseLight(new ConstantTexture(new Vector3D(10, 10, 10)))));
-            
             world.list = list;
-            scene = new Scene(width, height, world, isSky, camera,0,true);
+            scene = new Scene(width, height, world, isSky, camera, 0,true);
+
+            //使用直接光源采样
+            //HitableList lightShapeList = new HitableList();
+            //lightShapeList.list.Add(new Sphere(new Vector3D(0, 7, 0), 2, null));
+            //lightShapeList.list.Add(new XYRect(3, 5, 1, 3, -2, null));
+            //scene = new Scene(width, height, world, isSky, camera, 1, false, lightShapeList);
+
 
 
         }
