@@ -12,17 +12,16 @@ public class Renderer
 {
     private int width;
     private int height;
-    private HitableList world = new HitableList();
-    private bool isSky = true;
+    private HitableList world = new HitableList();  //場景中的物體
+    private bool isSky = true;                      //是否顯示天空
     private Scene scene;
     private int samples;
     private Camera camera;
 
     public static Renderer main;
-    public Preview preview = new Preview();
-    public float[] buff;
-    public int[] changes;
-    public Bitmap bmp;
+    public Preview preview = new Preview();         //展示圖片的窗口
+    public float[] buff;        //保存顔色信息，每四個值對應一個點的顔色，即(r,g,b,a)
+    public int[] changes;       //記錄每個點的采樣率
 
     public Renderer(Scene scene, int samples=1000)
     {
@@ -41,8 +40,6 @@ public class Renderer
         main = this;
         buff = new float[width * height * 4];
         changes = new int[width * height];
-        bmp = new Bitmap(width, height);
-
         Start();
         preview.gamma = scene.Gamma;
         preview.Start("Preview", width, height);
@@ -60,6 +57,9 @@ public class Renderer
             this.height = height;
         }
     }
+    /// <summary>
+    /// 綫程池
+    /// </summary>
     private async void Start()
     {
         ThreadPool.SetMaxThreads(15, 15);
@@ -155,6 +155,9 @@ public class Renderer
         }
     }
 
+    /// <summary>
+    /// 設置顔色(r,g,b,a)
+    /// </summary>
     private void SetPixel(int x, int y, Vector3D color)
     {
         var i = width * 4 * y + x * 4;
